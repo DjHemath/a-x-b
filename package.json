@@ -1,0 +1,12 @@
+{
+  "name": "a-x-b",
+  "version": "1.0.0",
+  "description": "Description paathu inna panna pora",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "HemathKumar R",
+  "license": "ISC",
+  "contributors": ["Ragav"]
+}
