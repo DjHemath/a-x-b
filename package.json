@@ -9,10 +9,10 @@
   "files": [
     "./index.js"
   ],
-  "bin": {
-    "a-x-b": "./index.js"
-  },
+  "bin": "./index.js",
   "author": "HemathKumar R",
   "license": "ISC",
-  "contributors": ["Ragav"]
+  "contributors": [
+    "Ragav"
+  ]
 }
